@@ -4,9 +4,9 @@ FreeCell Solitaire
 
 Another new Solitaire, pass the time playing the game of what's right. There are two types of games in the game: simple mode (single card), medium model (three cards). Hurry to try your Solitaire competence! Maybe you can make your partner's eyes bright!
 
-![image](https://github.com/DevialMayCry/FreeCell-Solitaire/raw/master/IMG_0757.PNG)
-![image](https://github.com/DevialMayCry/FreeCell-Solitaire/raw/master/IMG_0758.PNG)
-![image](https://github.com/DevialMayCry/FreeCell-Solitaire/raw/master/IMG_0759.PNG)
+![image](https://github.com/DevialMayCry/FreeCell-Solitaire/raw/master/IMG_0757.JPG)
+![image](https://github.com/DevialMayCry/FreeCell-Solitaire/raw/master/IMG_0758.JPG)
+![image](https://github.com/DevialMayCry/FreeCell-Solitaire/raw/master/IMG_0759.JPG)
 
 
 Framework
